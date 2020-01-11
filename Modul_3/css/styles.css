@@ -1,0 +1,112 @@
+body {
+  font-size: 16px;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav>li {
+    position: relative;
+    display: block;
+    background-color: lightgray;
+    height: 56px;
+}
+
+.text-center {
+	padding: 16px;
+}
+    
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0;
+    border-top: 1px solid black;
+}
+
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: Black;
+}
+
+.navbar-nav {
+    margin: 0 -15px;
+}
+
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: white;
+    opacity: 70%;
+}
+
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+    color: Black;
+}
+
+
+.navbar-default .navbar-brand {
+	color: Black;
+
+}
+
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+
+.navbar-default{
+	border: 0px;
+	background-color: #FBB040
+}
+
+.navbar {
+	border-radius: 0;
+}
+
+h1 {
+	color: White;
+	margin: 32px;
+}
+
+h3 {
+	color: white;
+	padding: 8px;
+}
+
+div .description {
+	padding: 24px;
+	color: white
+}
+.description{
+	color: white;
+}
+
+.container{
+background-color: black;
+padding-bottom: 10px;
+}
+
+
+@media (min-width: 1200px) {
+}
+ 
+
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+@media (min-width: 364px) and (max-width: 767px) {
+	.container{
+	margin: 56px;
+}
+
+
